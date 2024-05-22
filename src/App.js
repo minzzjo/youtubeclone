@@ -7,11 +7,11 @@ const queryClient = new QueryClient();
 
 export default function App() {
   return (
-    <>
+    <main>
       <QueryClientProvider client={queryClient}>
         <SearchHeader />
         <Outlet />
       </QueryClientProvider>
-    </>
+    </main>
   )
 }
