@@ -1,0 +1,537 @@
+{
+	"kind": "youtube#channelListResponse",
+	"etag": "ERRc6EOKJ67oQKiRzLzZSPQA8hI",
+	"pageInfo": {
+		"totalResults": 16,
+		"resultsPerPage": 30
+	},
+	"items": [
+		{
+			"kind": "youtube#channel",
+			"etag": "MzXPiO4N1c0LktRZnxVqvZGah3c",
+			"id": "UCvAewWPqooIUgQUsjhTmUVw",
+			"snippet": {
+				"title": "김숙티비kimsookTV",
+				"description": "안녕하세요. 김숙입니다.\n\n※ 제작·협업 문의: ad@vivolab.tv\n",
+				"customUrl": "@kimsooktv",
+				"publishedAt": "2020-01-06T14:21:59.293301Z",
+				"thumbnails": {
+					"default": {
+						"url": "https://yt3.ggpht.com/ytc/AIdro_n0H9ya88w_O39s3WbC3ZsG5bYN_M0yaFW_Mq89TZ4ojXI=s88-c-k-c0x00ffffff-no-rj",
+						"width": 88,
+						"height": 88
+					},
+					"medium": {
+						"url": "https://yt3.ggpht.com/ytc/AIdro_n0H9ya88w_O39s3WbC3ZsG5bYN_M0yaFW_Mq89TZ4ojXI=s240-c-k-c0x00ffffff-no-rj",
+						"width": 240,
+						"height": 240
+					},
+					"high": {
+						"url": "https://yt3.ggpht.com/ytc/AIdro_n0H9ya88w_O39s3WbC3ZsG5bYN_M0yaFW_Mq89TZ4ojXI=s800-c-k-c0x00ffffff-no-rj",
+						"width": 800,
+						"height": 800
+					}
+				},
+				"localized": {
+					"title": "김숙티비kimsookTV",
+					"description": "안녕하세요. 김숙입니다.\n\n※ 제작·협업 문의: ad@vivolab.tv\n"
+				},
+				"country": "KR"
+			}
+		},
+		{
+			"kind": "youtube#channel",
+			"etag": "1awovhsSCOzA21BMeUOgozn_sXA",
+			"id": "UCA9kvKQdNxslWm5IKZgXS_A",
+			"snippet": {
+				"title": "안녕하세요 최화정이에요",
+				"description": "명랑한 사람이 결국 행복을 낚는다고 하죠?\n저 최화정, 언제나 명랑한 어른이고 싶어요\n여러분들과 앞으로 유튜브를 통해서\n즐겁고 행복하게 소통하겠습니다\n많이 응원해주세요 사랑합니다❤\n\n비즈니스 문의 : hellojoonimom@gmail.com\n",
+				"customUrl": "@hellochoihwajung",
+				"publishedAt": "2024-05-05T10:38:24.941969Z",
+				"thumbnails": {
+					"default": {
+						"url": "https://yt3.ggpht.com/aq0Ja7PnzUStpr9pPKSscnXo6B5nNQ7cObVXlGiI4vQEV6AmtoHk1GCDndILLqHExIAkBvwnOw=s88-c-k-c0x00ffffff-no-rj",
+						"width": 88,
+						"height": 88
+					},
+					"medium": {
+						"url": "https://yt3.ggpht.com/aq0Ja7PnzUStpr9pPKSscnXo6B5nNQ7cObVXlGiI4vQEV6AmtoHk1GCDndILLqHExIAkBvwnOw=s240-c-k-c0x00ffffff-no-rj",
+						"width": 240,
+						"height": 240
+					},
+					"high": {
+						"url": "https://yt3.ggpht.com/aq0Ja7PnzUStpr9pPKSscnXo6B5nNQ7cObVXlGiI4vQEV6AmtoHk1GCDndILLqHExIAkBvwnOw=s800-c-k-c0x00ffffff-no-rj",
+						"width": 800,
+						"height": 800
+					}
+				},
+				"localized": {
+					"title": "안녕하세요 최화정이에요",
+					"description": "명랑한 사람이 결국 행복을 낚는다고 하죠?\n저 최화정, 언제나 명랑한 어른이고 싶어요\n여러분들과 앞으로 유튜브를 통해서\n즐겁고 행복하게 소통하겠습니다\n많이 응원해주세요 사랑합니다❤\n\n비즈니스 문의 : hellojoonimom@gmail.com\n"
+				},
+				"country": "KR"
+			}
+		},
+		{
+			"kind": "youtube#channel",
+			"etag": "K9gSw_c7nTAikJ6X2lMr_XyLFc8",
+			"id": "UCSc2DcSzzjHgBn8Hg0KG7PA",
+			"snippet": {
+				"title": "꼰대희",
+				"description": "젊은이들의 문화를 체험하는 꼰대희 채널입니다\n\n비즈니스 문의 : jdbent001@gmail.com\n",
+				"customUrl": "@ggondaehee",
+				"publishedAt": "2020-08-19T05:23:43.602005Z",
+				"thumbnails": {
+					"default": {
+						"url": "https://yt3.ggpht.com/ytc/AIdro_kvXF8ikeDs5sSIjyl4JuSceqwpAJlslX8ieu5rYmjypA=s88-c-k-c0x00ffffff-no-rj",
+						"width": 88,
+						"height": 88
+					},
+					"medium": {
+						"url": "https://yt3.ggpht.com/ytc/AIdro_kvXF8ikeDs5sSIjyl4JuSceqwpAJlslX8ieu5rYmjypA=s240-c-k-c0x00ffffff-no-rj",
+						"width": 240,
+						"height": 240
+					},
+					"high": {
+						"url": "https://yt3.ggpht.com/ytc/AIdro_kvXF8ikeDs5sSIjyl4JuSceqwpAJlslX8ieu5rYmjypA=s800-c-k-c0x00ffffff-no-rj",
+						"width": 800,
+						"height": 800
+					}
+				},
+				"localized": {
+					"title": "꼰대희",
+					"description": "젊은이들의 문화를 체험하는 꼰대희 채널입니다\n\n비즈니스 문의 : jdbent001@gmail.com\n"
+				},
+				"country": "KR"
+			}
+		},
+		{
+			"kind": "youtube#channel",
+			"etag": "X6UBk_N4uJDPNOkMz2xD-UZY_Qk",
+			"id": "UCYDyvqaGX6WxH77N04sj6mg",
+			"snippet": {
+				"title": "리쥬라이크 LIJULIKE",
+				"description": "유혜주Vlog\n\n문의 : lijulike@crbhoney.kr\n\n\n",
+				"customUrl": "@lijulike",
+				"publishedAt": "2018-04-06T12:15:40Z",
+				"thumbnails": {
+					"default": {
+						"url": "https://yt3.ggpht.com/pcFLVUDQVSlOjqLjCr3K34RiAvvtj0DGTxbdOzYYqmBnmfKN0vfVRv4FSSJo0X9UnTGEoRcg97U=s88-c-k-c0x00ffffff-no-rj",
+						"width": 88,
+						"height": 88
+					},
+					"medium": {
+						"url": "https://yt3.ggpht.com/pcFLVUDQVSlOjqLjCr3K34RiAvvtj0DGTxbdOzYYqmBnmfKN0vfVRv4FSSJo0X9UnTGEoRcg97U=s240-c-k-c0x00ffffff-no-rj",
+						"width": 240,
+						"height": 240
+					},
+					"high": {
+						"url": "https://yt3.ggpht.com/pcFLVUDQVSlOjqLjCr3K34RiAvvtj0DGTxbdOzYYqmBnmfKN0vfVRv4FSSJo0X9UnTGEoRcg97U=s800-c-k-c0x00ffffff-no-rj",
+						"width": 800,
+						"height": 800
+					}
+				},
+				"localized": {
+					"title": "리쥬라이크 LIJULIKE",
+					"description": "유혜주Vlog\n\n문의 : lijulike@crbhoney.kr\n\n\n"
+				},
+				"country": "KR"
+			}
+		},
+		{
+			"kind": "youtube#channel",
+			"etag": "y1lL052oxbIwfyW-k8XXGhhPOtM",
+			"id": "UCkxbPwdaV74Erdxt97Nt23w",
+			"snippet": {
+				"title": "공부왕찐천재 홍진경",
+				"description": "안녕하세요 홍진경입니다.\n지식을 향한 타는 목마름으로\n이 채널을 개설하였습니다.\n구독해주신 분들 모두\n웃음과 지식 한꺼번에 얻어가실 수 있도록\n열심히 하겠습니다. \n사랑합니다\n\n문의 : realstudyking@gmail.com\n",
+				"customUrl": "@zzin_genius",
+				"publishedAt": "2021-02-07T07:29:04.371168Z",
+				"thumbnails": {
+					"default": {
+						"url": "https://yt3.ggpht.com/ytc/AIdro_mXJxSXiJa2E26VH10eCDts0qd7FQszSNbx9tWxpHkD4w=s88-c-k-c0x00ffffff-no-rj",
+						"width": 88,
+						"height": 88
+					},
+					"medium": {
+						"url": "https://yt3.ggpht.com/ytc/AIdro_mXJxSXiJa2E26VH10eCDts0qd7FQszSNbx9tWxpHkD4w=s240-c-k-c0x00ffffff-no-rj",
+						"width": 240,
+						"height": 240
+					},
+					"high": {
+						"url": "https://yt3.ggpht.com/ytc/AIdro_mXJxSXiJa2E26VH10eCDts0qd7FQszSNbx9tWxpHkD4w=s800-c-k-c0x00ffffff-no-rj",
+						"width": 800,
+						"height": 800
+					}
+				},
+				"localized": {
+					"title": "공부왕찐천재 홍진경",
+					"description": "안녕하세요 홍진경입니다.\n지식을 향한 타는 목마름으로\n이 채널을 개설하였습니다.\n구독해주신 분들 모두\n웃음과 지식 한꺼번에 얻어가실 수 있도록\n열심히 하겠습니다. \n사랑합니다\n\n문의 : realstudyking@gmail.com\n"
+				},
+				"country": "KR"
+			}
+		},
+		{
+			"kind": "youtube#channel",
+			"etag": "gRumbZd5sJvPEr36rf7WPka7TTY",
+			"id": "UC8vm0EzlH9mRHwnTLILpQjQ",
+			"snippet": {
+				"title": "N.Flying (엔플라잉)",
+				"description": "FNC Entertainment BAND 'N.Flying' OFFICIAL Youtube Channel",
+				"customUrl": "@nflyingofficial",
+				"publishedAt": "2014-01-10T10:34:39Z",
+				"thumbnails": {
+					"default": {
+						"url": "https://yt3.ggpht.com/r2Edc4tfOyuiMyjkzj9CKJrf4wcyoTJNehFb6M7NrMOcuSEqIPKFX1XH1qkJNq3ZfI9P6ls3Iw=s88-c-k-c0x00ffffff-no-nd-rj",
+						"width": 88,
+						"height": 88
+					},
+					"medium": {
+						"url": "https://yt3.ggpht.com/r2Edc4tfOyuiMyjkzj9CKJrf4wcyoTJNehFb6M7NrMOcuSEqIPKFX1XH1qkJNq3ZfI9P6ls3Iw=s240-c-k-c0x00ffffff-no-nd-rj",
+						"width": 240,
+						"height": 240
+					},
+					"high": {
+						"url": "https://yt3.ggpht.com/r2Edc4tfOyuiMyjkzj9CKJrf4wcyoTJNehFb6M7NrMOcuSEqIPKFX1XH1qkJNq3ZfI9P6ls3Iw=s800-c-k-c0x00ffffff-no-nd-rj",
+						"width": 800,
+						"height": 800
+					}
+				},
+				"localized": {
+					"title": "N.Flying (엔플라잉)",
+					"description": "FNC Entertainment BAND 'N.Flying' OFFICIAL Youtube Channel"
+				}
+			}
+		},
+		{
+			"kind": "youtube#channel",
+			"etag": "oIIg_r5mqv-wAleJ1-7I-sCW19c",
+			"id": "UC5Oq6jxwXcIHMAnKvOluWcg",
+			"snippet": {
+				"title": "안스타",
+				"description": "커피는 물보다 진하다.\n\nSCA(Specialty Coffee Association) AST(Authorized SCA Trainer) / 국제커피협회 공인 트레이너\nQ-grader / 커피품질평가사",
+				"customUrl": "@ahnstar_",
+				"publishedAt": "2020-01-13T12:37:58.788384Z",
+				"thumbnails": {
+					"default": {
+						"url": "https://yt3.ggpht.com/c4JxpwqLZHx2seP5l7Ire_Ohn-RDWENUWrOhh3a1n4mqXo0cqq4utc07AurWNtfllgRU9Vs4PA=s88-c-k-c0x00ffffff-no-rj",
+						"width": 88,
+						"height": 88
+					},
+					"medium": {
+						"url": "https://yt3.ggpht.com/c4JxpwqLZHx2seP5l7Ire_Ohn-RDWENUWrOhh3a1n4mqXo0cqq4utc07AurWNtfllgRU9Vs4PA=s240-c-k-c0x00ffffff-no-rj",
+						"width": 240,
+						"height": 240
+					},
+					"high": {
+						"url": "https://yt3.ggpht.com/c4JxpwqLZHx2seP5l7Ire_Ohn-RDWENUWrOhh3a1n4mqXo0cqq4utc07AurWNtfllgRU9Vs4PA=s800-c-k-c0x00ffffff-no-rj",
+						"width": 800,
+						"height": 800
+					}
+				},
+				"defaultLanguage": "ko",
+				"localized": {
+					"title": "안스타",
+					"description": "커피는 물보다 진하다.\n\nSCA(Specialty Coffee Association) AST(Authorized SCA Trainer) / 국제커피협회 공인 트레이너\nQ-grader / 커피품질평가사"
+				},
+				"country": "KR"
+			}
+		},
+		{
+			"kind": "youtube#channel",
+			"etag": "QUSeJYjK4Kg14gwiLT0VvPDIhGI",
+			"id": "UCk5bhZYNtbPJyNLRxN8D8NQ",
+			"snippet": {
+				"title": "유이뿅YUIPYON",
+				"description": "한국을 좋아하는 일본인 채널입니다 :)\n日本人が主に韓国での出来事や魅力を発信しています！",
+				"customUrl": "@yuikbyeong",
+				"publishedAt": "2015-07-21T03:20:49Z",
+				"thumbnails": {
+					"default": {
+						"url": "https://yt3.ggpht.com/d7CnZieKNOOSjTL0FR9NkxKWaeJWSt09Qr0QBvg1j7YNQmiPS2dgmQ8ZrnvQtkDcF9zJ8kXC=s88-c-k-c0x00ffffff-no-rj",
+						"width": 88,
+						"height": 88
+					},
+					"medium": {
+						"url": "https://yt3.ggpht.com/d7CnZieKNOOSjTL0FR9NkxKWaeJWSt09Qr0QBvg1j7YNQmiPS2dgmQ8ZrnvQtkDcF9zJ8kXC=s240-c-k-c0x00ffffff-no-rj",
+						"width": 240,
+						"height": 240
+					},
+					"high": {
+						"url": "https://yt3.ggpht.com/d7CnZieKNOOSjTL0FR9NkxKWaeJWSt09Qr0QBvg1j7YNQmiPS2dgmQ8ZrnvQtkDcF9zJ8kXC=s800-c-k-c0x00ffffff-no-rj",
+						"width": 800,
+						"height": 800
+					}
+				},
+				"localized": {
+					"title": "유이뿅YUIPYON",
+					"description": "한국을 좋아하는 일본인 채널입니다 :)\n日本人が主に韓国での出来事や魅力を発信しています！"
+				},
+				"country": "KR"
+			}
+		},
+		{
+			"kind": "youtube#channel",
+			"etag": "L50Ez68PzeCP5gTwsgOCnlASV7M",
+			"id": "UCiwQRG2sCcfjKkgxMEdJGPg",
+			"snippet": {
+				"title": "엠뚜루마뚜루 : MBC 공식 종합 채널",
+				"description": "MBC의 🔥HOT🔥한 영상을 \n내맘대로ㅡ 편하게ㅡ ! \n휘뚜루 마뚜루 즐길 수 있는 채널!\nᕕ( ᐛ )ᕗ  엠뚜루마뚜루 ᕕ( ᐛ )ᕗ",
+				"customUrl": "@mbc_officialchannel",
+				"publishedAt": "2020-09-21T05:14:01.912391Z",
+				"thumbnails": {
+					"default": {
+						"url": "https://yt3.ggpht.com/ytc/AIdro_lDkXxXsoXkIH5rJpTWkKTFl5RHDcM3fD_bGVo_tVhWtQ=s88-c-k-c0x00ffffff-no-rj",
+						"width": 88,
+						"height": 88
+					},
+					"medium": {
+						"url": "https://yt3.ggpht.com/ytc/AIdro_lDkXxXsoXkIH5rJpTWkKTFl5RHDcM3fD_bGVo_tVhWtQ=s240-c-k-c0x00ffffff-no-rj",
+						"width": 240,
+						"height": 240
+					},
+					"high": {
+						"url": "https://yt3.ggpht.com/ytc/AIdro_lDkXxXsoXkIH5rJpTWkKTFl5RHDcM3fD_bGVo_tVhWtQ=s800-c-k-c0x00ffffff-no-rj",
+						"width": 800,
+						"height": 800
+					}
+				},
+				"localized": {
+					"title": "엠뚜루마뚜루 : MBC 공식 종합 채널",
+					"description": "MBC의 🔥HOT🔥한 영상을 \n내맘대로ㅡ 편하게ㅡ ! \n휘뚜루 마뚜루 즐길 수 있는 채널!\nᕕ( ᐛ )ᕗ  엠뚜루마뚜루 ᕕ( ᐛ )ᕗ"
+				},
+				"country": "KR"
+			}
+		},
+		{
+			"kind": "youtube#channel",
+			"etag": "aMeGOJLX__rEwN2WKAx_xsyAK5o",
+			"id": "UC26QQCGh66xFU_NjhYLwdQQ",
+			"snippet": {
+				"title": "살빼조DietJo",
+				"description": "DietJo@sandboxnetwork.net",
+				"customUrl": "@dietjo311",
+				"publishedAt": "2020-07-09T11:18:38.635984Z",
+				"thumbnails": {
+					"default": {
+						"url": "https://yt3.ggpht.com/ytc/AIdro_kPPsAezDZGizWqfd0_cTtUdur1jo7kfvJ6BxizcQUJgA=s88-c-k-c0x00ffffff-no-rj",
+						"width": 88,
+						"height": 88
+					},
+					"medium": {
+						"url": "https://yt3.ggpht.com/ytc/AIdro_kPPsAezDZGizWqfd0_cTtUdur1jo7kfvJ6BxizcQUJgA=s240-c-k-c0x00ffffff-no-rj",
+						"width": 240,
+						"height": 240
+					},
+					"high": {
+						"url": "https://yt3.ggpht.com/ytc/AIdro_kPPsAezDZGizWqfd0_cTtUdur1jo7kfvJ6BxizcQUJgA=s800-c-k-c0x00ffffff-no-rj",
+						"width": 800,
+						"height": 800
+					}
+				},
+				"localized": {
+					"title": "살빼조DietJo",
+					"description": "DietJo@sandboxnetwork.net"
+				}
+			}
+		},
+		{
+			"kind": "youtube#channel",
+			"etag": "GdLc-3zprYme1FycrB_b5N9lOOI",
+			"id": "UCDNvRZRgvkBTUkQzFoT_8rA",
+			"snippet": {
+				"title": "뜬뜬 DdeunDdeun",
+				"description": "좋은 사람, 좋은 이야기, 좋은 웃음, 우리 '뜬뜬'한 사이 돼봐요💕 \n\n🤓유선배 복지 콘텐츠🗣토크찌개맛집🥘\n🐓핑계고🐓는 불시에 찾아옵니다! \n----------------------------------------\n✨2024 핑계고 스핀오프 프로젝트✨\n🗓이달의 계원🗓 매월 한 편씩 공개!\n----------------------------------------\n🥂그저 술 마시며 게임하는 고품격 사교모임🥂\n🎲빰빰소셜클럽🎲 휴식 중⌛\n----------------------------------------\n본격 잠 오는 요리 콘텐츠 🍽실비집🍽\n요리가 재밌어요~ 담소는 맛있어요! 💤휴업 중💤\n\n🙏🏻 plz 구독☝알림설정🔔 plz 🙏🏻\n\n뭐든지 문의할 땐, ddeunddeun@antenna.co.kr\n인스타 놀러올 땐, @ddeun._.ddeun\n",
+				"customUrl": "@ddeunddeun",
+				"publishedAt": "2022-10-04T07:24:23.973864Z",
+				"thumbnails": {
+					"default": {
+						"url": "https://yt3.ggpht.com/aOgjye3sMIxNl2SW2wAQZpZWUXzZ5Rg0rNITacRQKVfXvF9cnPWb77G3_gH5s2Zyw241BXWYWg=s88-c-k-c0x00ffffff-no-rj",
+						"width": 88,
+						"height": 88
+					},
+					"medium": {
+						"url": "https://yt3.ggpht.com/aOgjye3sMIxNl2SW2wAQZpZWUXzZ5Rg0rNITacRQKVfXvF9cnPWb77G3_gH5s2Zyw241BXWYWg=s240-c-k-c0x00ffffff-no-rj",
+						"width": 240,
+						"height": 240
+					},
+					"high": {
+						"url": "https://yt3.ggpht.com/aOgjye3sMIxNl2SW2wAQZpZWUXzZ5Rg0rNITacRQKVfXvF9cnPWb77G3_gH5s2Zyw241BXWYWg=s800-c-k-c0x00ffffff-no-rj",
+						"width": 800,
+						"height": 800
+					}
+				},
+				"localized": {
+					"title": "뜬뜬 DdeunDdeun",
+					"description": "좋은 사람, 좋은 이야기, 좋은 웃음, 우리 '뜬뜬'한 사이 돼봐요💕 \n\n🤓유선배 복지 콘텐츠🗣토크찌개맛집🥘\n🐓핑계고🐓는 불시에 찾아옵니다! \n----------------------------------------\n✨2024 핑계고 스핀오프 프로젝트✨\n🗓이달의 계원🗓 매월 한 편씩 공개!\n----------------------------------------\n🥂그저 술 마시며 게임하는 고품격 사교모임🥂\n🎲빰빰소셜클럽🎲 휴식 중⌛\n----------------------------------------\n본격 잠 오는 요리 콘텐츠 🍽실비집🍽\n요리가 재밌어요~ 담소는 맛있어요! 💤휴업 중💤\n\n🙏🏻 plz 구독☝알림설정🔔 plz 🙏🏻\n\n뭐든지 문의할 땐, ddeunddeun@antenna.co.kr\n인스타 놀러올 땐, @ddeun._.ddeun\n"
+				},
+				"country": "KR"
+			}
+		},
+		{
+			"kind": "youtube#channel",
+			"etag": "kQMxIuX8-CatEOHToHsiwEyRYYA",
+			"id": "UCoUDrzyCl1IwU602xdTsM-g",
+			"snippet": {
+				"title": "소근커플 S.K.Couple",
+				"description": "🎵음악하는 커플, 아니 부부👰🏻‍♀️🤵🏻\n\n✉️sk_biz@skstudio.kr\n",
+				"customUrl": "@skcouple",
+				"publishedAt": "2014-02-06T16:51:16Z",
+				"thumbnails": {
+					"default": {
+						"url": "https://yt3.ggpht.com/Hx-OSZb8qiUSIuhPiuue_792yzH9dVAjwY8zRWYN9Hhy2cwmV0LXslDr8o_cBRGHxA5CjVuwJw=s88-c-k-c0x00ffffff-no-rj",
+						"width": 88,
+						"height": 88
+					},
+					"medium": {
+						"url": "https://yt3.ggpht.com/Hx-OSZb8qiUSIuhPiuue_792yzH9dVAjwY8zRWYN9Hhy2cwmV0LXslDr8o_cBRGHxA5CjVuwJw=s240-c-k-c0x00ffffff-no-rj",
+						"width": 240,
+						"height": 240
+					},
+					"high": {
+						"url": "https://yt3.ggpht.com/Hx-OSZb8qiUSIuhPiuue_792yzH9dVAjwY8zRWYN9Hhy2cwmV0LXslDr8o_cBRGHxA5CjVuwJw=s800-c-k-c0x00ffffff-no-rj",
+						"width": 800,
+						"height": 800
+					}
+				},
+				"defaultLanguage": "ko",
+				"localized": {
+					"title": "소근커플 S.K.Couple",
+					"description": "🎵음악하는 커플, 아니 부부👰🏻‍♀️🤵🏻\n\n✉️sk_biz@skstudio.kr\n"
+				},
+				"country": "KR"
+			}
+		},
+		{
+			"kind": "youtube#channel",
+			"etag": "ic3gvEJvS3EQBzfKYC6zIsHe_Wo",
+			"id": "UCbD8EppRX3ZwJSou-TVo90A",
+			"snippet": {
+				"title": "Mnet K-POP",
+				"description": "K-POP Channel of World's No.1 Music Channel Mnet\nWatch the latest and hottest K-POP contents on ✨Mnet K-POP✨\n\nⓒCJ ENM. Corp ALL RIGHTS RESERVED\n",
+				"customUrl": "@mnet",
+				"publishedAt": "2006-03-09T02:12:08Z",
+				"thumbnails": {
+					"default": {
+						"url": "https://yt3.ggpht.com/ytc/AIdro_lBqrcP7DAfrtymgGoQG0Ddh9RcuJvGGnUkgNKG912WWDUi=s88-c-k-c0x00ffffff-no-rj",
+						"width": 88,
+						"height": 88
+					},
+					"medium": {
+						"url": "https://yt3.ggpht.com/ytc/AIdro_lBqrcP7DAfrtymgGoQG0Ddh9RcuJvGGnUkgNKG912WWDUi=s240-c-k-c0x00ffffff-no-rj",
+						"width": 240,
+						"height": 240
+					},
+					"high": {
+						"url": "https://yt3.ggpht.com/ytc/AIdro_lBqrcP7DAfrtymgGoQG0Ddh9RcuJvGGnUkgNKG912WWDUi=s800-c-k-c0x00ffffff-no-rj",
+						"width": 800,
+						"height": 800
+					}
+				},
+				"localized": {
+					"title": "Mnet K-POP",
+					"description": "K-POP Channel of World's No.1 Music Channel Mnet\nWatch the latest and hottest K-POP contents on ✨Mnet K-POP✨\n\nⓒCJ ENM. Corp ALL RIGHTS RESERVED\n"
+				}
+			}
+		},
+		{
+			"kind": "youtube#channel",
+			"etag": "bs_myIUy5ksNWoe22UG8yy-1MOI",
+			"id": "UCS_hnpJLQTvBkqALgapi_4g",
+			"snippet": {
+				"title": "SBSKPOP X INKIGAYO",
+				"description": "'SBSKPOP X INKIGAYO'은 기존의  Inkigayo인기가요 채널의 확장 버전으로 새롭게 태어난 SBS 공식 디지털 KPOP채널입니다.\n\n기존의 인기가요 영상 클립들은 물론, SBS Super concert 등 국내외 케이팝 이벤트의 공식 영상,직캠,미공개 독점 스페셜 영상,\n그리고 '스브스케이팝/SBSKPOP'이 직접 제작한 참신하고 재밌는 ORIGINAL 콘텐츠등을 해외 뿐 아니라 국내 팬들에게도 제공하려 합니다. \n\n그동안 함께 해주신 Inkigayo구독자분들 그리고 새롭게 앞으로 함께 해주실 구독자분들의 많은 사랑을 바랍니다.\n\n\nYou can check out all the special clips and official fancams of super concerts and Inkigayo as well as the clips of kpop stars at the '스브스케이팝/SBSKPOP' channel right now.\n\nSBS 인기가요[Inkigayo] is a k-pop tv program broadcast by SBS. It airs live every Sunday at 3:50 PM KST. \n\nThe show features some of the latest and most popular artists who perform on stage.",
+				"customUrl": "@sbskpop",
+				"publishedAt": "2011-02-17T02:17:55Z",
+				"thumbnails": {
+					"default": {
+						"url": "https://yt3.ggpht.com/Uxpz5J0EcsFJRbqh4Ip7i3TTNsxTh5jVUxfZmV1DTrCQM_ihfzBGMmkfSRGWoFK9M0anhIie=s88-c-k-c0x00ffffff-no-rj",
+						"width": 88,
+						"height": 88
+					},
+					"medium": {
+						"url": "https://yt3.ggpht.com/Uxpz5J0EcsFJRbqh4Ip7i3TTNsxTh5jVUxfZmV1DTrCQM_ihfzBGMmkfSRGWoFK9M0anhIie=s240-c-k-c0x00ffffff-no-rj",
+						"width": 240,
+						"height": 240
+					},
+					"high": {
+						"url": "https://yt3.ggpht.com/Uxpz5J0EcsFJRbqh4Ip7i3TTNsxTh5jVUxfZmV1DTrCQM_ihfzBGMmkfSRGWoFK9M0anhIie=s800-c-k-c0x00ffffff-no-rj",
+						"width": 800,
+						"height": 800
+					}
+				},
+				"localized": {
+					"title": "SBSKPOP X INKIGAYO",
+					"description": "'SBSKPOP X INKIGAYO'은 기존의  Inkigayo인기가요 채널의 확장 버전으로 새롭게 태어난 SBS 공식 디지털 KPOP채널입니다.\n\n기존의 인기가요 영상 클립들은 물론, SBS Super concert 등 국내외 케이팝 이벤트의 공식 영상,직캠,미공개 독점 스페셜 영상,\n그리고 '스브스케이팝/SBSKPOP'이 직접 제작한 참신하고 재밌는 ORIGINAL 콘텐츠등을 해외 뿐 아니라 국내 팬들에게도 제공하려 합니다. \n\n그동안 함께 해주신 Inkigayo구독자분들 그리고 새롭게 앞으로 함께 해주실 구독자분들의 많은 사랑을 바랍니다.\n\n\nYou can check out all the special clips and official fancams of super concerts and Inkigayo as well as the clips of kpop stars at the '스브스케이팝/SBSKPOP' channel right now.\n\nSBS 인기가요[Inkigayo] is a k-pop tv program broadcast by SBS. It airs live every Sunday at 3:50 PM KST. \n\nThe show features some of the latest and most popular artists who perform on stage."
+				},
+				"country": "KR"
+			}
+		},
+		{
+			"kind": "youtube#channel",
+			"etag": "czw7603Yv-xzUdxVdU1HjgDY-GA",
+			"id": "UCmbGE7Y2ov7pTBuUrkXgtTQ",
+			"snippet": {
+				"title": "할명수",
+				"description": "박명수 유튜브 채널 할명수에 오신 걸 환영합니다 \n우리 명수 하고 싶은 거 다 하자!\n\n※ 동영상을 공유하실 때 링크와 출처를 반드시✔ 표기해주세요 ※\n\n※ 협찬/비즈니스 문의\nJTBC 마케팅솔루션팀 jtbc.ms@jtbc.co.kr \n",
+				"customUrl": "@jtbc_hms",
+				"publishedAt": "2020-08-07T12:44:27.786917Z",
+				"thumbnails": {
+					"default": {
+						"url": "https://yt3.ggpht.com/ytc/AIdro_mYtJzeW-vVuUHvTbF24DKaa0PEr3alb_Zh3bi3IaMBUgM=s88-c-k-c0x00ffffff-no-rj",
+						"width": 88,
+						"height": 88
+					},
+					"medium": {
+						"url": "https://yt3.ggpht.com/ytc/AIdro_mYtJzeW-vVuUHvTbF24DKaa0PEr3alb_Zh3bi3IaMBUgM=s240-c-k-c0x00ffffff-no-rj",
+						"width": 240,
+						"height": 240
+					},
+					"high": {
+						"url": "https://yt3.ggpht.com/ytc/AIdro_mYtJzeW-vVuUHvTbF24DKaa0PEr3alb_Zh3bi3IaMBUgM=s800-c-k-c0x00ffffff-no-rj",
+						"width": 800,
+						"height": 800
+					}
+				},
+				"localized": {
+					"title": "할명수",
+					"description": "박명수 유튜브 채널 할명수에 오신 걸 환영합니다 \n우리 명수 하고 싶은 거 다 하자!\n\n※ 동영상을 공유하실 때 링크와 출처를 반드시✔ 표기해주세요 ※\n\n※ 협찬/비즈니스 문의\nJTBC 마케팅솔루션팀 jtbc.ms@jtbc.co.kr \n"
+				},
+				"country": "KR"
+			}
+		},
+		{
+			"kind": "youtube#channel",
+			"etag": "dwJD6FbS6IJpGUfmPc2GRGh_624",
+			"id": "UCe52oeb7Xv_KaJsEzcKXJJg",
+			"snippet": {
+				"title": "MBCkpop",
+				"description": "Welcome to the official YouTube page of MBC, MBC Kpop\nEnjoy \"Show! Music Core\" the hottest K-pop program and the essence of live music on \"The Masked Singer\". Subscribe and stay tuned for the latest updates!",
+				"customUrl": "@mbckpop",
+				"publishedAt": "2011-12-14T08:08:18Z",
+				"thumbnails": {
+					"default": {
+						"url": "https://yt3.ggpht.com/HSJYam_ItBlkB_JRt35RegbOkEGmLOA5p3DiWU-DqJ3IgXJwgwhNoxAEiqBKXA-mblrNogatbQ=s88-c-k-c0x00ffffff-no-rj",
+						"width": 88,
+						"height": 88
+					},
+					"medium": {
+						"url": "https://yt3.ggpht.com/HSJYam_ItBlkB_JRt35RegbOkEGmLOA5p3DiWU-DqJ3IgXJwgwhNoxAEiqBKXA-mblrNogatbQ=s240-c-k-c0x00ffffff-no-rj",
+						"width": 240,
+						"height": 240
+					},
+					"high": {
+						"url": "https://yt3.ggpht.com/HSJYam_ItBlkB_JRt35RegbOkEGmLOA5p3DiWU-DqJ3IgXJwgwhNoxAEiqBKXA-mblrNogatbQ=s800-c-k-c0x00ffffff-no-rj",
+						"width": 800,
+						"height": 800
+					}
+				},
+				"localized": {
+					"title": "MBCkpop",
+					"description": "Welcome to the official YouTube page of MBC, MBC Kpop\nEnjoy \"Show! Music Core\" the hottest K-pop program and the essence of live music on \"The Masked Singer\". Subscribe and stay tuned for the latest updates!"
+				},
+				"country": "KR"
+			}
+		}
+	]
+}

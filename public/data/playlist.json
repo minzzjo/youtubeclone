@@ -1,0 +1,182 @@
+{
+	"kind": "youtube#playlistListResponse",
+	"etag": "tU4zWN72DViRb-75uFyL0-roC1w",
+	"pageInfo": {
+		"totalResults": 4,
+		"resultsPerPage": 30
+	},
+	"items": [
+		{
+			"kind": "youtube#playlist",
+			"etag": "_Ehg805yjp3EaY1yz5Bs0v7UmCI",
+			"id": "PLE7NSUpyv6SVDK2nz4aoZdbuQ3XVfnQae",
+			"snippet": {
+				"publishedAt": "2024-01-31T09:01:09Z",
+				"channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+				"title": "핑계고 스핀오프 프로젝트 🗓이달의 계원🗓",
+				"description": "✨2024 핑계고 스핀오프 프로젝트✨\n🗓이달의 계원🗓 매월 한 편씩 공개!",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/WQaswRC0m3Y/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/WQaswRC0m3Y/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/WQaswRC0m3Y/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/WQaswRC0m3Y/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/WQaswRC0m3Y/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "뜬뜬 DdeunDdeun",
+				"localized": {
+					"title": "핑계고 스핀오프 프로젝트 🗓이달의 계원🗓",
+					"description": "✨2024 핑계고 스핀오프 프로젝트✨\n🗓이달의 계원🗓 매월 한 편씩 공개!"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlist",
+			"etag": "KQefFTwDfIDz3dAFf2tJ1oW6YFw",
+			"id": "PLE7NSUpyv6SWvoVJua5_s95JpvUqcbA4D",
+			"snippet": {
+				"publishedAt": "2023-07-18T13:03:39Z",
+				"channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+				"title": "본격 잠 오는 요리 콘텐츠 🍽실비집🍽",
+				"description": "본격 잠 오는 요리 콘텐츠 🍽실비집🍽\n요리가 재밌어요~ 담소는 맛있어요! 💤휴업 중💤",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/6NihSwJAIqQ/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/6NihSwJAIqQ/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/6NihSwJAIqQ/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/6NihSwJAIqQ/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/6NihSwJAIqQ/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "뜬뜬 DdeunDdeun",
+				"localized": {
+					"title": "본격 잠 오는 요리 콘텐츠 🍽실비집🍽",
+					"description": "본격 잠 오는 요리 콘텐츠 🍽실비집🍽\n요리가 재밌어요~ 담소는 맛있어요! 💤휴업 중💤"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlist",
+			"etag": "hSf3IR1Ab2N42w7FJtdP_cH6Xrw",
+			"id": "PLE7NSUpyv6SUnWYujre6pRWNRdlnv6CaP",
+			"snippet": {
+				"publishedAt": "2023-01-31T13:04:02Z",
+				"channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+				"title": "알딸딸한 게임의 장 🎲빰빰소셜클럽🎲",
+				"description": "🥂그저 술 마시며 게임하는 고품격 사교모임🥂\n🎲빰빰소셜클럽🎲 휴식 중⌛",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/ZQHTeG35ypo/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/ZQHTeG35ypo/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/ZQHTeG35ypo/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/ZQHTeG35ypo/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/ZQHTeG35ypo/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "뜬뜬 DdeunDdeun",
+				"localized": {
+					"title": "알딸딸한 게임의 장 🎲빰빰소셜클럽🎲",
+					"description": "🥂그저 술 마시며 게임하는 고품격 사교모임🥂\n🎲빰빰소셜클럽🎲 휴식 중⌛"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlist",
+			"etag": "d9EwdL9Ld5tXsMjLD8QXKeqUi6Y",
+			"id": "PLE7NSUpyv6SWUghI2uuPHc_lrE4mvPK5y",
+			"snippet": {
+				"publishedAt": "2022-11-09T08:40:30Z",
+				"channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+				"title": "유선배 복지 콘텐츠 🐓핑계고🐓",
+				"description": "🤓유선배 복지 콘텐츠🗣토크찌개맛집🥘\n🐓핑계고🐓는 불시에 찾아옵니다!",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/9xdA6uMDEc4/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/9xdA6uMDEc4/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/9xdA6uMDEc4/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/9xdA6uMDEc4/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/9xdA6uMDEc4/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "뜬뜬 DdeunDdeun",
+				"localized": {
+					"title": "유선배 복지 콘텐츠 🐓핑계고🐓",
+					"description": "🤓유선배 복지 콘텐츠🗣토크찌개맛집🥘\n🐓핑계고🐓는 불시에 찾아옵니다!"
+				}
+			}
+		}
+	]
+}

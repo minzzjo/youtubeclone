@@ -1,0 +1,1032 @@
+{
+	"kind": "youtube#searchListResponse",
+	"etag": "fJZujZDklEFbENkGpZDS25rMuDs",
+	"nextPageToken": "CB4QAA",
+	"regionCode": "KR",
+	"pageInfo": {
+		"totalResults": 1000000,
+		"resultsPerPage": 30
+	},
+	"items": [
+		{
+			"kind": "youtube#searchResult",
+			"etag": "e7YndEPn8I4VZPacpoRUlRBJHYE",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "jjeGH2df_qw"
+			},
+			"snippet": {
+				"publishedAt": "2024-05-13T09:00:36Z",
+				"channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+				"title": "[아이유의 팔레트🎨] &#39;뚀&#39;렷! &#39;경&#39;례! 박&#39;수&#39;! (With 도경수) Ep.25",
+				"description": "[IU's Palette] DDOTTENTION! Bow! Applause! (With Doh Kyungsoo) Ep.25 [아이유의 팔레트] '뚀'렷! '경'례! 박'수'! (With 도경수) ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/jjeGH2df_qw/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/jjeGH2df_qw/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/jjeGH2df_qw/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "이지금 [IU Official]",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-05-13T09:00:36Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "OQX-M5PUjiiUDVIB8dw09NSQ2hc",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "JleoAppaxi0"
+			},
+			"snippet": {
+				"publishedAt": "2024-01-23T15:00:15Z",
+				"channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+				"title": "IU &#39;Love wins all&#39; MV",
+				"description": "IU Pre-Release Single 'Love wins all' #아이유 #IU #Love_wins_all [IU Official SNS] YouTube ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/JleoAppaxi0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/JleoAppaxi0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/JleoAppaxi0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "이지금 [IU Official]",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-01-23T15:00:15Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "nq4w2CRRoPqy-BC_6MLZeURPZ5Y",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "O-1FpjPP6_c"
+			},
+			"snippet": {
+				"publishedAt": "2024-05-16T10:00:17Z",
+				"channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+				"title": "IU &#39;관객이 될게 (I stan U)&#39; Live Clip (2024 IU WORLD TOUR CONCERT IN SEOUL)",
+				"description": "IU '관객이 될게 (I stan U)' Live Clip (2024 IU WORLD TOUR CONCERT IN SEOUL) #아이유 #HAPPY_IU_DAY #IstanU [IU Official ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/O-1FpjPP6_c/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/O-1FpjPP6_c/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/O-1FpjPP6_c/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "이지금 [IU Official]",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-05-16T10:00:17Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "QeS0GUjDK6we00-tLaLTOIMbgQs",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "ax1csKKQnns"
+			},
+			"snippet": {
+				"publishedAt": "2024-03-29T09:00:02Z",
+				"channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+				"title": "IU &#39;Love wins all&#39; Live Clip (2024 IU WORLD TOUR CONCERT IN SEOUL)",
+				"description": "IU 'Love wins all' Live Clip (2024 IU WORLD TOUR CONCERT IN SEOUL) #아이유 #Love_wins_all #WORLD_TOUR [IU Official ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/ax1csKKQnns/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/ax1csKKQnns/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/ax1csKKQnns/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "이지금 [IU Official]",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-03-29T09:00:02Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "dIb24WakMPY8_WPqN6azKUpw8Zw",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "6VpA7a0CW0E"
+			},
+			"snippet": {
+				"publishedAt": "2024-05-13T10:35:03Z",
+				"channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+				"title": "엄마!! 우리 집 파김치가 별로래!! #아이유 #IU #아이유의팔레트 #아이유네파김치 #도경수",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/6VpA7a0CW0E/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/6VpA7a0CW0E/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/6VpA7a0CW0E/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "이지금 [IU Official]",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-05-13T10:35:03Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "aKyGKdfi5ot-FpoALw1I5mx4M24",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "2e3oGAjVw-w"
+			},
+			"snippet": {
+				"publishedAt": "2024-05-18T11:40:55Z",
+				"channelId": "UCdjjTRD-Dbjapg5Na_DiJ6g",
+				"title": "아이유 미국 최초 콘서트 &#39;미국, 부모와 함께가기&#39; 대열풍! &quot;엄마, 아빠랑 가도 되나요?&quot;",
+				"description": "\"독점 제공된 NordVPN 특별 혜택을 여기서 확인하세요: https://nordvpn.com/fireflower. 30일 환불 보장으로 안전하게 이용할 수 ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/2e3oGAjVw-w/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/2e3oGAjVw-w/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/2e3oGAjVw-w/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "불꽃바침",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-05-18T11:40:55Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "ShRUmMDlWG86yg7EmpulzA6gye8",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "uUM5iahJQpA"
+			},
+			"snippet": {
+				"publishedAt": "2024-01-24T20:39:40Z",
+				"channelId": "UC9OspNnFLgTw157p2virUMw",
+				"title": "[ IU PLAYLIST 2024 ] | 아이유 Songs | Best Songs For Study and Relaxing",
+				"description": "[ IU PLAYLIST 2024 ] | 아이유 Songs | Best Songs For Study and Relaxing   ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/uUM5iahJQpA/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/uUM5iahJQpA/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/uUM5iahJQpA/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Dyno Playlist",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-01-24T20:39:40Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "shvSzMO_0IeIa1K8hZAhnkzSqqo",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "sZ5_HYmoDEE"
+			},
+			"snippet": {
+				"publishedAt": "2024-05-13T10:16:25Z",
+				"channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+				"title": "아이유 X 도경수 &#39;별 떨어진다 (I Do)&#39; #아이유 #IU #아이유의팔레트 #별떨어진다 #도경수",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/sZ5_HYmoDEE/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/sZ5_HYmoDEE/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/sZ5_HYmoDEE/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "이지금 [IU Official]",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-05-13T10:16:25Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "DKcTwFVRQtSWaUImvqfRoiwe5cg",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "fsigYmDuB9Y"
+			},
+			"snippet": {
+				"publishedAt": "2024-05-17T10:39:25Z",
+				"channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+				"title": "[조각집🎨] &#39;별 떨어진다 (I Do)&#39; IU Live Clip (With 도경수)",
+				"description": "[조각집  ] '별 떨어진다 (I Do)' IU Live Clip (With 도경수) [IU Official SNS] YouTube ▷ https://www.youtube.com/@dlwlrma ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/fsigYmDuB9Y/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/fsigYmDuB9Y/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/fsigYmDuB9Y/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "이지금 [IU Official]",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-05-17T10:39:25Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "M6oLu5harEUawbRlIM5z63tUEKg",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "G5XzlDs-Sck"
+			},
+			"snippet": {
+				"publishedAt": "2024-02-20T14:28:47Z",
+				"channelId": "UCznL5L7iTgTaqSBS5yF6g7w",
+				"title": "아이유 노래모음 (가사포함) | IU Playlist (Korean Lyrics)",
+				"description": "조회수 1만 회부터 유튜브 측에서 광고를 붙일 수 있습니다. 광고로 발생한 수익은 전부 저작권 소유자에게 지급됩니다. ❤️ 저는 ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/G5XzlDs-Sck/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/G5XzlDs-Sck/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/G5XzlDs-Sck/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "밤공원",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-02-20T14:28:47Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "vq6M0pQM5v_1ecysndH4WBSvhS8",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "0-q1KafFCLU"
+			},
+			"snippet": {
+				"publishedAt": "2021-01-27T09:00:00Z",
+				"channelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw",
+				"title": "[MV] IU(아이유) _ Celebrity",
+				"description": "[MV] IU(아이유) _ Celebrity K-POP Wonderland, 1theK K-POP의 모든 즐거움을 1theK(원더케이)에서 만나보세요! :) Welcome to the ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/0-q1KafFCLU/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/0-q1KafFCLU/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/0-q1KafFCLU/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "1theK (원더케이)",
+				"liveBroadcastContent": "none",
+				"publishTime": "2021-01-27T09:00:00Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "ajyE7lz1Hwuwr_zvSZQz3LdkHfI",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "mFbILexYSQg"
+			},
+			"snippet": {
+				"publishedAt": "2024-02-16T09:00:41Z",
+				"channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+				"title": "IU &#39;홀씨(Holssi)&#39; MV",
+				"description": "IU 6th Mini Album [The Winning] ➫ 2024.02.20 18:00 (KST) 홀씨 (Holssi) Lyrics by 아이유 / Composed by 이종훈, 이채규, 아이유 ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/mFbILexYSQg/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/mFbILexYSQg/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/mFbILexYSQg/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "이지금 [IU Official]",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-02-16T09:00:41Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "HBPW-PVhzTheUNKGIj6mHvE2hPw",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "YJHGhwzaI4c"
+			},
+			"snippet": {
+				"publishedAt": "2024-05-21T08:23:25Z",
+				"channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+				"title": "[경제PICK5] &quot;한국 너무 좋아요~&quot; 아이유 찐팬 오늘 방한 / YTN",
+				"description": "[앵커] 오늘의 뜨거운 경제 이슈를 경제부 기자와 함께 친절하게 풀어드리는 '경제 PICK5' 시간입니다. 먼저 첫 번째 주제부터 ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/YJHGhwzaI4c/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/YJHGhwzaI4c/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/YJHGhwzaI4c/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": " YTN",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-05-21T08:23:25Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "icRMCYWIQCRVor-sNGDUF-UCybA",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "2dVlwcviCwQ"
+			},
+			"snippet": {
+				"publishedAt": "2024-02-20T09:00:03Z",
+				"channelId": "UCTUR0sVEkD8T5MlSHqgaI_Q",
+				"title": "Shopper (Shopper)",
+				"description": "Provided to YouTube by Kakao Entertainment Shopper (Shopper) · IU · Chaekyu Lee · Jonghoon Lee · Chaekyu Lee · Jonghoon ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/2dVlwcviCwQ/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/2dVlwcviCwQ/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/2dVlwcviCwQ/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "IU - Topic",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-02-20T09:00:03Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "6VdRIpk8UcAc9AchiDRUPII7rps",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "h-XrgiZiQgw"
+			},
+			"snippet": {
+				"publishedAt": "2024-01-24T10:30:14Z",
+				"channelId": "UCoBcjaSab_CLwBOKe-8Fvjw",
+				"title": "아이유(IU) - Love wins all [가사/Lyrics]",
+				"description": "아이유(IU) - Love wins all [가사/Lyrics] #아이유 #IU #Lovewinsall 발매 : 2024.01.24 아티스트 : 아이유(IU) 앨범 : Love wins all 작곡 ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/h-XrgiZiQgw/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/h-XrgiZiQgw/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/h-XrgiZiQgw/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "웅키",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-01-24T10:30:14Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "MuFJiV32W06Uc94IjR4yEzUV8eU",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "HSOYnpupW94"
+			},
+			"snippet": {
+				"publishedAt": "2024-03-15T08:04:06Z",
+				"channelId": "UCNHZLPkCegxgxzTbcxwQNSg",
+				"title": "(가사포함) 아이유 Playlist 30곡",
+				"description": "아이유 Playlist 30곡 00:00 1. 스물셋 03:14 2. 너랑 나 07:11 3. Love wins all 11:39 4. Blueming 15:15 5. 가을 아침 18:52 6.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/HSOYnpupW94/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/HSOYnpupW94/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/HSOYnpupW94/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "홍군택",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-03-15T08:04:06Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "iYmU7s1-SvSnIDHgVzFmDxYuASQ",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "ppIX_LCPBFE"
+			},
+			"snippet": {
+				"publishedAt": "2024-03-30T07:53:42Z",
+				"channelId": "UC476fE7Fuy3WYcz6NSB-iKA",
+				"title": "[Playlist] 아이유 노래모음 | IU Playlist",
+				"description": "플레이리스트 #아이유 #국힙원탑 #이지은.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/ppIX_LCPBFE/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/ppIX_LCPBFE/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/ppIX_LCPBFE/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "베리플리 𝗩𝗮𝗿𝗶𝗼𝘂𝘀 𝗣𝗹𝗮𝘆𝗹𝗶𝘀𝘁𝘀",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-03-30T07:53:42Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "zsmPDI6y0E-fZH02pwFvmgatuQg",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "9WKzt9QEmD4"
+			},
+			"snippet": {
+				"publishedAt": "2024-03-22T09:00:10Z",
+				"channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+				"title": "IU &#39;Shopper&#39; Live Clip (2024 IU WORLD TOUR CONCERT IN SEOUL)",
+				"description": "IU 'Shopper' Live Clip (2024 IU WORLD TOUR CONCERT IN SEOUL) #아이유 #Shopper #WORLD_TOUR [IU Official SNS] ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/9WKzt9QEmD4/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/9WKzt9QEmD4/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/9WKzt9QEmD4/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "이지금 [IU Official]",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-03-22T09:00:10Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "waFItyY_0uMcbMfOkoqHtnP1RmU",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "wDfqXR_5yyQ"
+			},
+			"snippet": {
+				"publishedAt": "2021-03-31T10:00:15Z",
+				"channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+				"title": "아이유(IU)의 킬링보이스를 라이브로! - 하루 끝, 너의 의미, 스물셋, 밤편지, 팔레트, 가을 아침, 삐삐, Blueming, 에잇, Coin, 라일락 ㅣ 딩고뮤직",
+				"description": "0:00 하루 끝 02:05 금요일에 만나요 03:09 너의 의미 04:55 스물셋 06:18 밤편지 07:57 팔레트 09:10 가을 아침 10:46 삐삐 11:47 ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/wDfqXR_5yyQ/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/wDfqXR_5yyQ/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/wDfqXR_5yyQ/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "딩고 뮤직 / dingo music",
+				"liveBroadcastContent": "none",
+				"publishTime": "2021-03-31T10:00:15Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "cyoIZKGlIigwzP793rv40bn0_Go",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "r8vzSHC6f2E"
+			},
+			"snippet": {
+				"publishedAt": "2024-05-19T22:26:06Z",
+				"channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+				"title": "[이 시각 세계] &#39;아이유 팬&#39; 미국 할아버지 오늘 한국 방문(2024.05.20 /뉴스투데이/MBC)",
+				"description": "가수 겸 배우 아이유의 팬으로 유명해진 미국 할아버지가 오늘 우리나라를 방문한다는데요.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/r8vzSHC6f2E/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/r8vzSHC6f2E/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/r8vzSHC6f2E/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "MBCNEWS",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-05-19T22:26:06Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "bH4LzOHZPGbpe6BqiTKGRhIRgu0",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "BahC2CxQzD0"
+			},
+			"snippet": {
+				"publishedAt": "2024-05-15T09:30:03Z",
+				"channelId": "UCH1WLbKqBxQNouAWHoYQQVw",
+				"title": "[4K] D.O. (도경수) &amp; IU (아이유) - Love Wins All | IU’s Palette (아이유의 팔레트)",
+				"description": "[ENG/HAN] D.O. (도경수) & IU (아이유) - Love Wins All | IU's Palette (아이유의 팔레트) | 2024.05.13 Be sure to like & share this ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/BahC2CxQzD0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/BahC2CxQzD0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/BahC2CxQzD0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "So Hyang TV • Fan Channel",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-05-15T09:30:03Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "RR6gJixqEvdxPrBHT5rKpkLwbN0",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "tiUk81bDpNM"
+			},
+			"snippet": {
+				"publishedAt": "2024-01-24T16:04:41Z",
+				"channelId": "UCznL5L7iTgTaqSBS5yF6g7w",
+				"title": "아이유 노래모음 (가사포함) | IU Playlist (Korean Lyrics)",
+				"description": "조회수 1만 회부터 유튜브 측에서 광고를 붙일 수 있습니다. 광고로 발생한 수익은 전부 저작권 소유자에게 지급됩니다. ❤️ 저는 ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/tiUk81bDpNM/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/tiUk81bDpNM/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/tiUk81bDpNM/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "밤공원",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-01-24T16:04:41Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "r1ezSldefq9pQ1X0T0jAE1tdgPM",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "3iM_06QeZi8"
+			},
+			"snippet": {
+				"publishedAt": "2020-11-21T08:00:02Z",
+				"channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+				"title": "[IU] &#39;내 손을 잡아(Hold My Hand)&#39; Live Clip (2019 IU Tour Concert &#39;Love, poem&#39;)",
+				"description": "[IU] '내 손을 잡아(Hold My Hand)' Live Clip (2019 IU Tour Concert 'Love, poem') * 이 노래와 뒤늦게 사랑에 빠지신 많은 분들을 위해 ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/3iM_06QeZi8/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/3iM_06QeZi8/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/3iM_06QeZi8/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "이지금 [IU Official]",
+				"liveBroadcastContent": "none",
+				"publishTime": "2020-11-21T08:00:02Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "TdDD6dxNfjBdwsGtRHNPtDx21M8",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "XKnrVGQs7OA"
+			},
+			"snippet": {
+				"publishedAt": "2024-05-21T09:39:15Z",
+				"channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+				"title": "&#39;아이유 팬&#39; 美 할아버지·독립운동가 후손...&#39;한국 찐팬&#39; 외국인 초청 / YTN",
+				"description": "'아이유 팬' 美 할아버지 한국행…\"첫 한국 방문\" 문체부, '한국방문의 해' 맞아 외국인 49명 초청 \"증조부의 조국\"…항일 독립운동가 ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/XKnrVGQs7OA/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/XKnrVGQs7OA/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/XKnrVGQs7OA/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": " YTN",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-05-21T09:39:15Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "uqM9jqfUrd_4R8wfXaCaVGF-rus",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "RGQS34JqgNo"
+			},
+			"snippet": {
+				"publishedAt": "2024-03-29T10:00:17Z",
+				"channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+				"title": "Love wins all 사랑이 또 이겼다❤ #아이유 #IU #WORLD_TOUR #Love_wins_all",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/RGQS34JqgNo/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/RGQS34JqgNo/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/RGQS34JqgNo/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "이지금 [IU Official]",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-03-29T10:00:17Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "G7IUz7dmrdgGpr-8rv2p6Ch1wak",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "D1PvIWdJ8xo"
+			},
+			"snippet": {
+				"publishedAt": "2019-11-18T09:00:02Z",
+				"channelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw",
+				"title": "[MV] IU(아이유) _ Blueming(블루밍)",
+				"description": "[MV] IU(아이유) _ Blueming 1theK가 제작한 '1theK Originals-원더케이 오리지널' 채널이 오픈되었습니다:) 많은 관심과 구독 부탁 ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/D1PvIWdJ8xo/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/D1PvIWdJ8xo/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/D1PvIWdJ8xo/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "1theK (원더케이)",
+				"liveBroadcastContent": "none",
+				"publishTime": "2019-11-18T09:00:02Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "IA_0VZ-mx64E4LNpdl2kfui-YEQ",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "T17lVdn5Eq0"
+			},
+			"snippet": {
+				"publishedAt": "2022-05-30T09:56:29Z",
+				"channelId": "UC-vHoV6-kNCG4TNMVxXjioQ",
+				"title": "아이유가 부르는 세븐틴 darl+ing 🐥 (아이유의 팔레트 live ver.)",
+				"description": "아이유의팔레트 #세븐틴 #달링.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/T17lVdn5Eq0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/T17lVdn5Eq0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/T17lVdn5Eq0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "잉뿌삐제",
+				"liveBroadcastContent": "none",
+				"publishTime": "2022-05-30T09:56:29Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "08wRiG9ay8H3oH3F4vBcR1gPy7E",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "zu2JX7bE4iY"
+			},
+			"snippet": {
+				"publishedAt": "2024-05-13T10:04:23Z",
+				"channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+				"title": "아이유 X 도경수 &#39;Love wins all&#39; #아이유 #IU #아이유의팔레트 #Lovewinsall #도경수",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/zu2JX7bE4iY/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/zu2JX7bE4iY/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/zu2JX7bE4iY/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "이지금 [IU Official]",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-05-13T10:04:23Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "A_O26WuUnvVG5lgUy0nfGYweZ0o",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "nn1pbxe8bAI"
+			},
+			"snippet": {
+				"publishedAt": "2023-05-16T09:00:30Z",
+				"channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+				"title": "[IU] &#39;아이와 나의 바다(My sea)&#39; Live Clip (2022 IU Concert &#39;The Golden Hour : 오렌지 태양 아래&#39;)",
+				"description": "[IU] '아이와 나의 바다(My sea)' Live Clip (2022 IU Concert 'The Golden Hour : 오렌지 태양 아래') [IU] 'My sea' Live Clip (2022 IU ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/nn1pbxe8bAI/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/nn1pbxe8bAI/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/nn1pbxe8bAI/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "이지금 [IU Official]",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-05-16T09:00:30Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "7yBGs4HBCCaGq6XKrtgdqmmFF2M",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "cHbNaFNoHCY"
+			},
+			"snippet": {
+				"publishedAt": "2017-05-28T12:06:08Z",
+				"channelId": "UCmjNKt6kITwaZTqvWuaSPLg",
+				"title": "아이유(IU) X 싸이(PSY) - 어땠을까♬(What Would Have Been) | 판타스틱 듀오2 (Fantastic Duo2) | SBS ENTER",
+				"description": "아이유(IU) X 싸이(PSY) - 어땠을까(What Would Have Been) #아이유 #IU #PSY 판타스틱 듀오2(Fantastic Duo2) 9회 20170528 ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/cHbNaFNoHCY/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/cHbNaFNoHCY/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/cHbNaFNoHCY/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "SBS Entertainment",
+				"liveBroadcastContent": "none",
+				"publishTime": "2017-05-28T12:06:08Z"
+			}
+		}
+	]
+}
