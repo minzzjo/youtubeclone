@@ -13,7 +13,7 @@ export default function VideoDetail() {
 		<div>
 			<article className='flex md:flex-col lg:flex-row mx-auto p-8 gap-10'>
 				<article className='w-2/3'>
-					<iframe id='player' type='text/html' width='100%' height='640' src={`http://www.youtube.com/embed/${video.id}`} frameBorder='0' title={`${video.title}`} />
+					<iframe id='player' type='text/html' width='100%' height='640' src={`https://www.youtube.com/embed/${video.id}`} frameBorder='0' title={`${video.title}`} />
 					<section>
 						<p>{title}</p>
 						<ChannelInfo id={channelId} name={channelTitle} />
