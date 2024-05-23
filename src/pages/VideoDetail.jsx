@@ -1,21 +1,28 @@
 import React from 'react';
 import { useLocation } from 'react-router';
+import ChannelInfo from '../components/ChannelInfo';
+import Playlists from '../components/Playlists';
 
 export default function VideoDetail() {
-	// FIXME: useLocation에서 state가 계속 null값으로 나옴
 	const {
-		state: { videos },
+		state: { video },
 	} = useLocation();
-	const { title, channelId, channelTitle, description } = videos.snippet;
+	const { title, channelId, channelTitle, description } = video.snippet;
 
 	return (
 		<div>
-			<article>
-				<iframe id='player' type='text/html' width='100%' height='640' src={`http://www.youtube.com/embed/${videos.id}`} frameborder='0' title={`${videos.title}`} />
-				<section>
-					<p>{title}</p>
-					<p>{channelTitle}</p>
-					<p>{description}</p>
+			<article className='flex md:flex-col lg:flex-row mx-auto p-8 gap-10'>
+				<article className='w-2/3'>
+					<iframe id='player' type='text/html' width='100%' height='640' src={`http://www.youtube.com/embed/${video.id}`} frameBorder='0' title={`${video.title}`} />
+					<section>
+						<p>{title}</p>
+						<ChannelInfo id={channelId} name={channelTitle} />
+						<p>{description}</p>
+					</section>
+				</article>
+
+				<section className='w-1/3'>
+					<Playlists id={channelId} />
 				</section>
 			</article>
 		</div>

@@ -8,5 +8,5 @@ export default class Fake {
 
   async channels() { return axios.get('/data/channel.json') }
 
-  async comments() { return axios.get('/data/comments.json') }
+  async playlists() { return axios.get('/data/playlist.json') }
 }

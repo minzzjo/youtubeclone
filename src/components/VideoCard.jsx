@@ -7,7 +7,7 @@ export default function VideoCard({ video }) {
 	const { title, thumbnails, channelTitle, publishedAt } = video.snippet;
 
 	return (
-		<li onClick={() => navigate(`videos/watch/${video.id}`)} className='cursor-pointer'>
+		<li onClick={() => navigate(`videos/watch/${video.id}`, { state: { video } })} className='cursor-pointer'>
 			<img className='w-full' src={thumbnails.medium.url} alt={title} />
 			<article>
 				<p className='line-clamp-2'>{title}</p>

@@ -5,13 +5,13 @@ export default class Apis {
 
   async #searchByKeyword(keyword) {
     return this.apiClient
-      .search({ params: { part: 'snippet', maxResult: 30, type: 'video', q: keyword } })
+      .search({ params: { part: 'snippet', maxResults: 30, type: 'video', q: keyword } })
       .then((res) => res.data.items.map((item) => ({ ...item, id: item.id.videoId })));
   }
 
   async #mostPopular() {
     return this.apiClient
-      .videos({ params: { part: 'snippet', maxResult: 30, chart: 'mostPopular', regionCode: 'kr' } })
+      .videos({ params: { part: 'snippet', maxResults: 30, chart: 'mostPopular', regionCode: 'kr' } })
       .then((res) => res.data.items)
   }
 
@@ -25,9 +25,9 @@ export default class Apis {
       .then((res) => res.data.items.map((item) => ({ ...item, url: item.snippet.thumbnails.default.url })));
   }
 
-  async playlists(id) {
+  async playLists(id) {
     return this.apiClient
-      .playlists({ params: { part: 'snippet', maxResult: 30, channelId: id } })
-      .then((res) => res.data.items.map((item) => ({ ...item, playlists: item.snippet })));
+      .playlists({ params: { part: 'snippet', maxResults: 30, channelId: id } })
+      .then((res) => res.data.items.map((item) => ({ ...item, playLists: item.snippet })));
   }
 }
